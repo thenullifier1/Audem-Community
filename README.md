@@ -1,2 +1,2 @@
 # Audem-Community
-Best free open source song, music and audio identifier app.
+Best, fastest free open source music recognition app.
